@@ -1,0 +1,4 @@
+Python
+Sqlite3
+PyQt5
+
